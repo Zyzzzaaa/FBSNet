@@ -15,6 +15,7 @@ Pytorch == 1.8.0+cu101
 
 # clone this repository
 git clone https://github.com/XU-GITHUB-curry/FBSNet.git
+git clone https://gitee.com/cherry-without-getting-lost/FBSNet.git
 ```
 
 
